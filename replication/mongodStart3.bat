@@ -1,0 +1,1 @@
+mongod --port 27019 --dbpath ./db/grades3 --replSet rs0

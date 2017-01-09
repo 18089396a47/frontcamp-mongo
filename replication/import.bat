@@ -1,0 +1,1 @@
+mongoimport --db grades --host localhost --port 27017 --collection grade --file ../bestClass/grades.json

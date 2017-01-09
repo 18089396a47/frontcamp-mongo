@@ -1,0 +1,1 @@
+mongodump -h localhost:27017 -d articles -c articles --gzip -o dump
